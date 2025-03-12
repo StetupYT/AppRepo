@@ -1,0 +1,18 @@
+{
+  "name": "by Stetup IPA Repo",
+  "identifier": "stetup.xyz",
+  "sourceURL": "https://raw.githubusercontent.com/StetupYT/AppRepo/main/applist.json",
+  "apps": [
+    {
+      "name": "Fortnite",
+      "bundleIdentifier": "com.epicgames.fortnite",
+      "version": "31.10.1",
+      "versionDate": "2024-09-19",
+      "size": 195238232,
+      "downloadURL": "https://drive.google.com/file/d/1oFIMDm3hPL9fDNSkGyz31861oDHkP4WE/view?usp=sharing",
+      "developerName": "Stetup",
+      "localizedDescription": "Fortnite, Outside of the EU",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Fortnite_%28game%29_logo.svg/1920px-Fortnite_%28game%29_logo.svg.png"
+    }
+  ]
+}
